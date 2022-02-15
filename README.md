@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
-- :telescope: I’m currently working on PHP and Javascript
+- :telescope: I’m currently working on JAVA (Spring boot) , php (Laravel) and Javascript (Angular)
 - :seedling: I’m currently learning everything I can find
 - :mailbox: How to reach me: [Twitter](https://twitter.com/Mohssine_geek), [LinkedIn](https://www.linkedin.com/in/mohssine-elattari/)
 
